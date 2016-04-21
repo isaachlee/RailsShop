@@ -1,6 +1,6 @@
 ## Overview
 
-[Live Link](http://rails-online-shop-paul-nicole.herokuapp.com/products)
+[Live Link](http://rails-eshop.herokuapp.com/)
 
 * This is a shop application made in Ruby using the Rails Framework.
 * It supports image uploading utilizing Amazon Web Services.
@@ -16,14 +16,14 @@
 
 * Users and Admins are different types of users
 
-### Users 
+### Users
 * Users have profile pages
 * Users have timezones
 * New users can register
 * Existing users can login
 * Users can upload an avatar
 * Users can see the details of a particular product (quantity, price, name, description, etc.)
- 
+
 ### Admins
 * Admins can add new products to the site
 * Admins can edit an existing product (validations implimented)
